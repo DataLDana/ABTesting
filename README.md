@@ -1,3 +1,4 @@
 **Still under construction** :) 
-Also the code is not the final version. 
+<br>Also, the code has not been thoroughly commented on yet.
+
 # ABTesting
